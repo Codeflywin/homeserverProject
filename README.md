@@ -51,7 +51,7 @@ The server runs a lean, container-forward software stack focused on lean local A
 *   
 ### Virtualization
 *   **Windows 10 VM**: A full Windows 10 virtual machine running directly on the host. Using old key from the Windows 10 that ran on the PC, this has been set up to now run virtually. 
-
+![Server Dashboard](images/windows10VM.png)
   
 ### Local AI 
 *   **[OpenWebUI](https://openwebui.com/)**: An extensible, feature-rich, and user-friendly WebUI for interacting with local Large Language Models.
