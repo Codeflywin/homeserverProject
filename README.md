@@ -31,6 +31,7 @@ The system is built on an Intel/ASUS platform with dedicated AMD graphics and a 
 *   Logitech Wireless Mouse
 
 ---
+![Server Dashboard](images/hardwareSpecs.png)
 
 ## Software Stack
 
@@ -44,6 +45,9 @@ The server runs a modern, container-forward software stack focused on local AI, 
 
 ### Applications & Services
 *   **[Immich](https://immich.app/)**: A high-performance, self-hosted photo and video backup solution directly competing with Google Photos.
+  
+![Server Dashboard](images/immich.png)
+  
 *   **[Paperless-ngx](https://docs.paperless-ngx.com/)**: A document management system that transforms physical documents into a searchable online archive.
 *   **[VS Code Server](https://github.com/coder/code-server)**: Visual Studio Code running entirely on the server, accessible securely via any web browser.
 
