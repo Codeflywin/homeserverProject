@@ -18,7 +18,7 @@ The system is built on an Intel/ASUS platform with dedicated AMD graphics and a 
 | **Graphics (GPU)** | AMD Radeon RX 400/500 Series (Ellesmere Architecture) |
 | **Networking** | Intel I219-V Gigabit Ethernet |
 
-### Storage Array
+### Storage 
 
 | Drive | Capacity | Type | Mount / Format |
 | :--- | :--- | :--- | :--- |
@@ -31,7 +31,7 @@ The system is built on an Intel/ASUS platform with dedicated AMD graphics and a 
 
 ## Software Stack
 
-The server runs a modern, container-forward software stack focused on local AI, media backup, and development.
+The server runs a lean, container-forward software stack focused on lean local AI, media backup, and development.
 
 ### Operating System
 *   **[Ubuntu Server 26.04 LTS](https://ubuntu.com/server)**: The base operating system hosting the Docker daemon.
