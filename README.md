@@ -26,10 +26,6 @@ The system is built on an Intel/ASUS platform with dedicated AMD graphics and a 
 | **Toshiba HDWD110** | 1TB | Internal HDD | General Storage (EXT4) | Storage for documents, work files and code.
 | **WD My Book 1140** | 3TB | External USB | External Backup (NTFS) | Portable storage for photos and videos.
 
-### Peripherals
-*   Logitech Wireless Keyboard (PID: 4023)
-*   Logitech Wireless Mouse
-
 ---
 ![Server Dashboard](images/hardwareSpecs.png)
 
@@ -39,6 +35,8 @@ The server runs a modern, container-forward software stack focused on local AI, 
 
 ### Operating System
 *   **[Ubuntu Server 26.04 LTS](https://ubuntu.com/server)**: The base operating system hosting the Docker daemon.
+
+  ![Server Dashboard](images/serverDash.png)
 
 ### Infrastructure & Management
 *   **[Portainer](https://www.portainer.io/)**: A lightweight management UI for managing Docker containers, images, and networks.
@@ -53,6 +51,9 @@ The server runs a modern, container-forward software stack focused on local AI, 
 
 ### Local AI 
 *   **[OpenWebUI](https://openwebui.com/)**: An extensible, feature-rich, and user-friendly WebUI for interacting with local Large Language Models.
+![Server Dashboard](images/webuiModels.png)
     *   **Active Models:** 
         *   [`llama3.2`](https://ai.meta.com/llama/) (Meta)
         *   [`granite4.1:3b`](https://huggingface.co/ibm-granite) (IBM)
+          *   Below an example of IBM Granite 4.1:3b creating a basic "Hello World!" Java app.
+          ![Server Dashboard](images/webuiExample.png)
