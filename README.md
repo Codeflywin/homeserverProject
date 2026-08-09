@@ -50,7 +50,8 @@ The server runs a lean, container-forward software stack focused on lean local A
 *   **[VS Code Server](https://github.com/coder/code-server)**: Visual Studio Code running entirely on the server, accessible securely via any web browser.
 *   
 ### Virtualization
-*   **Windows 10 VM**: A full Windows 10 virtual machine running directly on the host. Using old key from the Windows 10 that ran on the PC, this has been set up to now run virtually. 
+*   **Windows 10 VM**: A full Windows 10 virtual machine running directly on the host. Using old key from the Windows 10 that ran on the PC, this has been set up to now run virtually.
+  
 ![Server Dashboard](images/windows10VM.png)
   
 ### Local AI 
